@@ -3,7 +3,7 @@
     "description": "My first Scoop package",
     "homepage": "https://example.com",
     "license": "MIT",
-    "url": "https://raw.githubusercontent.com/your-username/my-scoop-bucket/main/hello-world.ps1",
+    "url": "https://github.com/abottleofmilk/bottle-use/blob/master/bin/hello-world.ps1",
     "hash": "EE210D15882E5E982CF7F53C04F89C842DA6E8D79C60F30E1F8461EF73062E0A",
     "bin": "hello-world.ps1"
 }
