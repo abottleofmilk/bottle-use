@@ -4,7 +4,7 @@
   "homepage": "https://github.com/abottleofmilk/bottle-use",
   "license": "MIT",
   "url": "https://raw.githubusercontent.com/abottleofmilk/bottle-use/master/bin/hello-world.ps1",
-  "hash": "f2becd5aad5e4251c2295d33a6b4a9783fdf9ece5bfcb918c33d870c679fa460", // 使用您计算出的真实哈希值
+  "hash": "0dd2b7af0384fce3064bb3edfce38be8e1a3b44e6b43f327a5e85761174e5fb3", 
   "bin": "hello-world.ps1",
   "checkver": "github",
   "autoupdate": {
