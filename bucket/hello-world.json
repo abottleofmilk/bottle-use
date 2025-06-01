@@ -1,9 +1,13 @@
 {
-    "version": "1.0.0",
-    "description": "My first Scoop package",
-    "homepage": "https://example.com",
-    "license": "MIT",
-    "url": "https://github.com/abottleofmilk/bottle-use/blob/master/bin/hello-world.ps1",
-    "hash": "5cd9d07131143a11ad2cc4ddcbf7a9a2d959fbe3e5c1671752dff848e6386326",
-    "bin": "hello-world.ps1"
+  "version": "1.0.0",
+  "description": "Hello World Script",
+  "homepage": "https://github.com/abottleofmilk/bottle-use",
+  "license": "MIT",
+  "url": "https://raw.githubusercontent.com/abottleofmilk/bottle-use/master/bin/hello-world.ps1",
+  "hash": "f2becd5aad5e4251c2295d33a6b4a9783fdf9ece5bfcb918c33d870c679fa460", // 使用您计算出的真实哈希值
+  "bin": "hello-world.ps1",
+  "checkver": "github",
+  "autoupdate": {
+    "url": "https://raw.githubusercontent.com/abottleofmilk/bottle-use/master/bin/hello-world.ps1"
+  }
 }
